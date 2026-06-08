@@ -1,5 +1,3 @@
--- ts file was generated at discord.gg/25ms
-
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Tariviste/Execution/main/Source'))()
 
 local v1 = math.random(1, 9999999)
